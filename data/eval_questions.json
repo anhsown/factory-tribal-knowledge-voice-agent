@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What should I do when station 3 overheats on Tuesday after lunch?",
+    "expected_keyword": "drop current by 5%"
+  },
+  {
+    "question": "How should I wash polyester from Hotel A?",
+    "expected_keyword": "cooler cycle"
+  },
+  {
+    "question": "What temperature should dryer 2 use for towels?",
+    "expected_keyword": "human supervisor"
+  },
+  {
+    "question": "Should I run everything at 200°C?",
+    "expected_keyword": "human supervisor"
+  }
+]
