@@ -1,0 +1,5 @@
+{"transcript_id":"conv_001","worker_id":"worker_1","text":"Agent said station 3 should run at 100A. Worker replied: That's usually true, but on Tuesdays after lunch station 3 overheats. We drop the current by 5%."}
+{"transcript_id":"conv_002","worker_id":"worker_2","text":"Worker said: Polyester from Hotel A shrinks when washed together with cotton. We always separate it and use a cooler cycle."}
+{"transcript_id":"conv_003","worker_id":"worker_3","text":"Worker said: Dryer 2 runs best at 80°C for towels."}
+{"transcript_id":"conv_004","worker_id":"worker_4","text":"Worker said: No, dryer 2 should be 72°C for towels or it damages the fabric."}
+{"transcript_id":"conv_005","worker_id":"worker_5","text":"Worker joked: Maybe we should just run everything at 200°C and go home early."}
