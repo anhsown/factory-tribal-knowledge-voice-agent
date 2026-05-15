@@ -177,7 +177,7 @@ unknown | quarantined | run everything at 200°C
 
 **Step 1: Clone the repo**
 
-git clone <[your-repo-url](https://github.com/anhsown/factory-tribal-knowledge-voice-agent)>
+git clone <[repo-url](https://github.com/anhsown/factory-tribal-knowledge-voice-agent)>
 cd factory-tribal-knowledge-agent
 
 **Step 2: Create a virtual environment**
